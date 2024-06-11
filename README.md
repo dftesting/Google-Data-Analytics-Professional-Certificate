@@ -15,4 +15,4 @@ There are 8 Courses in this Professional Certificate:
 
 Certificate :
 
-![MY CERTIFICATION](https://github.com/dftesting/Google-Data-Analytics-Professional-Certificate/assets/172339522/b419a5b1-e6b3-4d95-8ce4-c79bc3b5c00e)
+[MY CERTIFICATION.pdf](https://github.com/user-attachments/files/15783926/MY.CERTIFICATION.pdf)
