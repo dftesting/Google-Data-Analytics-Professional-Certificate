@@ -17,3 +17,4 @@ Certificate :
 
 ![MY CERTIFICATION](https://github.com/dftesting/Google-Data-Analytics-Professional-Certificate/assets/172339522/151ed9bc-7f61-40d9-bf13-4127d147c286)
 
+URL : https://www.coursera.org/account/accomplishments/professional-cert/AAXY2KUAUYLG
